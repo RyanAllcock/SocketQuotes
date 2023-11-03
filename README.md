@@ -1,6 +1,6 @@
 ~~~ SocketQuotes ~~~
 
-~ In This Project
+~ In This Project:
 	- socket.h header file for using Windows and Windows Sockets 2 functionality
 	- quotes.txt for supplying quotes to the program
 	- quoteServer.c and quoteClient.c for sending quotes between programs or machines
