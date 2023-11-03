@@ -16,7 +16,7 @@
 	- multiQuoteServer responds with a quote (receives "ANOTHER"), "BYE" (receives "CLOSE", quits afterwards), and "ERROR" (receives anything else)
 	- multiQuoteServer buffer is flushed after each request
 
-~ TCP Sockets
+~ TCP Sockets:
 	- create socket with given family, type and protocol
 	- bind socket to listen for clients (server)
 	- connect to a listening socket for communication (client)
